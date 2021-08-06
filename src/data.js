@@ -104,7 +104,7 @@ export const skills = [
   "HTML & CSS",
   "Node",
   "Python",
-  "Material UI",
+  "Webflow",
   "Figma & Photoshop",
   "Ethical Hacking"
 ];
